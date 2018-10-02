@@ -61,7 +61,7 @@ El banco más importante del país ha lanzado una nueva aplicación móvil al me
 
      - El menú les dificultaba la visualización de la pantalla.
 
-     - No  existe opción de cerrar sesión o si esta se cierra en automático como otras aplicaciones no se informa.
+     - No  existe opción de cerrar sesión o si esta se cierra en automático como otras aplicaciones, no se informa.
 
 # Recomendaciones de próximos pasos
 
@@ -75,19 +75,45 @@ No realizar inversión en más publicidad por medio de las Facebook Ads. Segment
 
 * **Landing page**
 
-Modificar la imagen con la que cuenta,indicar que es un app perteneciente a una institución bancaria, indicar que por el momento solo se puede descargar en dispositivos iOS, incluir mayor información de de contacto con el banco en dado caso que se desee consultar alguna información extra,se mantiene el formulario para recabar información de los usuarios y poder tener contacto con ellos en el caso que no descargan la app,será más eficiente y al primer click después de llenar el formulario se dirigirá a la app store
+Modificar la imagen con la que cuenta, indicar que es un app que pertenece a una institución bancaria, indicar que por el momento solo se puede descargar en dispositivos iOS, incluir mayor información de contacto con el banco en dado caso que se desee consultar alguna información extra, se mantiene el formulario para recabar información de los usuarios y poder tener contacto con ellos en el caso que no descargan la app, será más eficiente y al primer click después de llenar el formulario se dirigirá a la app store.
 
 * **App store**
 
-Se agregan datos del banco y logo para generar mayor seguridad al usuario,e indicar que es un app perteneciente a una institución bancaria, se mejorará la eficiencia de la misma para subir puntaje de evaluación de la app y generar mayor confianza.
+Se agregan datos del banco y logo para generar mayor seguridad al usuario, e indicar que es un app perteneciente a una institución bancaria, se mejorará la eficiencia de la misma para subir puntaje de evaluación del app y generar mayor confianza.
 
 * **Sign ups**
 
-Se modificaron los datos del registro para hacer más eficiente el registro, se cambió el número de cuenta por el número de tarjeta para tener los datos a la mano, se agregó número de nip de la tarjeta para mayor seguridad, se conserva el msn de seguridad que llegara al número de teléfono registrado como datos del usuario en la sucursal, así como el correo. Se elimino la opción de subir foto de perfil y el registro de huella digital se conserva de manera opcional.
+Se modificaron los datos del registro para hacer más eficiente el registro, se cambió el número de cuenta por el número de tarjeta, para tener los datos disponibles, se agregó número de NIP de la tarjeta para mayor seguridad, se conserva el msn de seguridad que llegara al número de teléfono registrado, como datos del usuario en la sucursal, así como el correo, se elimino la opción de subir foto de perfil y el registro de huella digital se conserva de manera opcional.
 
 * **Navegación**
 
-En la página principal se muestra el saldo de sus tres cuentas(ahorro, gastos y saldo disponible), se modificó el menú por uno en forma de barra colocado en la parte inferior de la pantalla para su fácil acceso, este se mantiene en todas las páginas para fácil consulta de las opciones, se da la opción de regresar a la página anterior. Al momento de crear una meta las indicaciones son más claras (nombre de meta,monto final, fecha fin de la meta, y periodicidad). También se cambió tipografía para hacer más clara su lectura y los iconos para transmitir mayor confianza.
+En la página principal se muestra el saldo de sus tres cuentas (ahorro, gastos y saldo disponible), se modificó el menú por uno en forma de barra colocado en la parte inferior de la pantalla para su fácil acceso, este se mantiene en todas las páginas para fácil consulta de las opciones, se da la opción de regresar a la página anterior. Al momento de crear una meta las indicaciones son más claras (nombre de meta, monto final, fecha fin de la meta, y periodicidad). También se cambió tipografía para hacer más clara su lectura y los iconos para transmitir mayor confianza.
+
+## Propuesta de valor
+
+“Comparte tus metas con quien pueda ayudar a cumplirlas”. La propuesta es que esta app te lleve de la mano donde tus metas se encuentren con la realidad. ¿Cómo lo lograremos? premiando a los usuarios que han sido constantes en su ahorro, al llegar a cubrir el 50% de su meta trazada y si tienen un buen historial crediticio, se les incentiva con un préstamo por el monto faltante por cubrir su meta, logrando la realización de esta, a mitad de tiempo, y con una tasa preferencial para realizar sus pagos. 
+
+## Propuesta de app
+
+Se realizó el [prototipo](https://marvelapp.com/44cj814/screen/48226461) de acuerdo a la propuesta de mejora. Se efectuó un  [testeo](https://drive.google.com/open?id=1MMUDB4gIeVKqb58fTZ0sdE6fmbmnmpBi) para analizar el flujo y lo intuitivo de la misma obteniendo los siguientes puntos de mejora:
+
+   -   	Aun la tipografía no es para todos legible
+   -   	En la página de inicio se confundía con las tarjetas donde indicaba el monto de las diferentes cuentas (ahorro, gastos y monto disponible), les daban click pensando que los dirigirán a alguna opción.
+   -   	El menú no es de todo intuitivo, solo identificaban la opción de ahorro.
+
+También se obtuvieron comentarios positivos sobre la aplicación:
+
+   -   	El registro les pareció fácil y rápido y les grado que los datos que se pedían era información que solo manejaba el usuario  de la cuenta.
+   -   	Les pareció fácil la manera de crear una meta de ahorro.
+   -   	Los usuarios comentaron que el hecho de incentivar el ahorro con una propuesta de préstamo les agrada ya que eso motiva a ahorrar y a cumplir sus metas a menor tiempo posible.
+    
+
+
+## Próximos desarrollos
+
+* Se propone en un futuro invertir en desarrollo para dispositivo android ya que la mayoría de usuarios que visitaban la landing eran desde estos dispositivos.
+
+* Tener la opción de editar gatos y de la misma forma que en ahorro personalizarlos para fijar límites de gasto.
 
 
 
