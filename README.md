@@ -13,7 +13,7 @@ El banco más importante del país ha lanzado una nueva aplicación móvil al me
 
 ## Objetivos iniciales del proyecto
 
- El Gerente General aun en proceso de analizar y entender la [data proporcionada](https://docs.google.com/spreAheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit), animado por el crecimiento del número de descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook A.Como parte del trabajo se tendra que analizar también este punto.
+ El Gerente General aun en proceso de analizar y entender la [data proporcionada](https://docs.google.com/spreAheets/d/1e9WoTgGdmj8WD4cB2DULiVj8XZcgeEriqoiVdTlq7Lc/edit), animado por el crecimiento del número de descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook Adds. Como parte del trabajo se tendra que analizar también este punto.
 
 # Analisis  
 
@@ -83,7 +83,7 @@ Se agregan datos del banco y logo para generar mayor seguridad al usuario,e indi
 
 * **Sign ups**
 
-Se modificaron los datos del registro para hacer más eficiente el registro, se cambió el número de cuenta por el número de tarjeta para tener los datos a la mano, se agregó número de nip de la tarjeta para mayor seguridad, se conserva el msn de seguridad que llegara al número de teléfono registrado como datos del usuario en la sucursal, así como el correo.Se elimino laopcion de subir foto de perfil y el registro de huella digital se conserva de manera opcional.
+Se modificaron los datos del registro para hacer más eficiente el registro, se cambió el número de cuenta por el número de tarjeta para tener los datos a la mano, se agregó número de nip de la tarjeta para mayor seguridad, se conserva el msn de seguridad que llegara al número de teléfono registrado como datos del usuario en la sucursal, así como el correo. Se elimino la opción de subir foto de perfil y el registro de huella digital se conserva de manera opcional.
 
 * **Navegación**
 
