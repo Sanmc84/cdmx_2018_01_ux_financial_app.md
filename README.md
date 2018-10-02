@@ -109,12 +109,19 @@ También se obtuvieron comentarios positivos sobre la aplicación:
     
 
 
-## Próximos desarrollos
+# Próximos desarrollos
 
-* Se propone en un futuro invertir en desarrollo para dispositivo android ya que la mayoría de usuarios que visitaban la landing eran desde estos dispositivos.
+* Mejorar la aplicación propuesta de acuerdo al feedback obtenido y volver a testear. 
+
+* Se propone en un futuro invertir en desarrollo para dispositivos Android, ya que la mayoría de usuarios que visitaban la landing eran usuarios de este sistema.
 
 * Tener la opción de editar gatos y de la misma forma que en ahorro personalizarlos para fijar límites de gasto.
 
+# Aprendizajes
+
+* Fallar rápido y fallar barato. No esperar a terminar de realizar el prototipo al 100% para testearlo y encontrar áreas de mejora.
+
+* Planificar tiempos y priorizar las tareas más importantes y que requieran más tiempo.
 
 
 
